@@ -1,3 +1,5 @@
+Change the mongo db password. for atlas cloud
+also provide the email service detail in checkout api.
 Create a set of Rest APIs for small E-Commerce Application
 	Consider an entity Product that a user want to buy.
 	1. Product: Title, description, price, available quantity, category, other-properties (can have different properties for different products)
